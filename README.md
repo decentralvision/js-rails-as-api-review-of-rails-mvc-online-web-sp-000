@@ -1,5 +1,5 @@
 # Review of the Rails MVC
-
+change.
 ## Learning Goals
 
 - Review the MVC structure of Rails
